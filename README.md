@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/Lucx14/zombie-infection.svg?branch=master)](https://travis-ci.com/Lucx14/zombie-infection)
 
-[Trick or eat brains](http://trick-or-eat-brains.herokuapp.com/) is an 80s-inspired zombie world domination game built for final project at Makers.
+[Trick or eat brains](https://final-trick-eat-brains.herokuapp.com/) is an 80s-inspired zombie world domination game built for final project at Makers.
 
 ## Dev team
 - [Malachy Gilchrist](https://github.com/Mallig)
@@ -83,7 +83,7 @@ The game ends when the clock hits midnight or when the entire world has been ove
 Trick or Eat Brains is hosted on heroku at
 
 ```
-https://trick-or-eat-brains.herokuapp.com/
+https://final-trick-eat-brains.herokuapp.com/
 ```
 
 
